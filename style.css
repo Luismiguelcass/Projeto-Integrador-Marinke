@@ -1,0 +1,13 @@
+.texto-bonito {
+    font-family:Arial, Helvetica, sans-serif;
+    text-align:center;
+}
+
+h1 {
+    color:darkred;
+    font-size:200%
+}
+
+div {
+    background-color: lightyellow;
+}
